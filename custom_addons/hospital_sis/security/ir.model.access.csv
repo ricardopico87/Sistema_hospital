@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_consultas,access.sis.consultas,model_sis_consultas,,1,1,1,1
+access_hospital,access.sis.hospital,model_sis_hospital,,1,1,1,1
+access_especialidades,access.sis.especialidades,model_sis_especialidades,,1,1,1,1
